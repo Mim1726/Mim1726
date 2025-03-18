@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suraya Jannat Mim</h1>
 <h3 align="center">👨‍💻 CSE Undergraduate | University of Dhaka  | 🚀 Passionate about Competitive Programming, Algorithms, and Software Development</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mim1726&label=Profile%20views&color=0e75b6&style=flat" alt="mim1726" /> </p>
 
 
 <h3 align="left">Connect with me:</h3>
