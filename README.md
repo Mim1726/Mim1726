@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suraya Jannat Mim</h1>
-<h3 align="center">I'm currently pursuing my undergraduate degree in Computer Science & Engineering at University of Dhaka</h3>
+<h3 align="center">👨‍💻 CSE Undergraduate | University of Dhaka  | 🚀 Passionate about Competitive Programming, Algorithms, and Software Development</h3>
 
 
 <h3 align="left">Connect with me:</h3>
