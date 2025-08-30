@@ -2,9 +2,9 @@
 
 # 👋 Hello, I'm Suraya Jannat Mim
 
-<img src="https://komarev.com/ghpvc/?username=mim1726&label=&color=0e75b6&style=for-the-badge" alt="Profile views" align="left" />
+<img src="https://komarev.com/ghpvc/?username=mim1726&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" align="left" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=CSE+Undergraduate+%40+University+of+Dhaka;Competitive+Programming+Enthusiast;Algorithm+%26+Data+Structure+Lover;Software+Development+Passionate" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=CS+Undergraduate+Student;University+of+Dhaka;Competitive+Programming+Enthusiast;Algorithm+%26+Data+Structure+Lover;Software+Development+Passionate" alt="Typing SVG" />
 
 </div>
 
@@ -43,12 +43,6 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mim1726&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mim1726&theme=tokyo-night&bg_color=1a1b27&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 ## 🤝 Let's Connect
