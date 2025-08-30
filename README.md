@@ -17,20 +17,7 @@
 
 <h2 align="center">🚀 About Me</h2>
 
-<div align="center">
 
-```javascript
-const mim = {
-    name: "Suraya Jannat Mim",
-    location: "📍 Dhaka, Bangladesh",
-    education: "🎓 Computer Science & Engineering - University of Dhaka",
-    interests: ["💡 Problem Solving", "🏆 Competitive Programming", "💻 Software Development"],
-    currentlyLearning: ["🌟 Advanced Algorithms", "🔧 Full Stack Development"],
-    funFact: "✨ I love turning complex problems into elegant solutions!"
-};
-```
-
-</div>
 
 ## 🛠️ Tech Stack
 
@@ -97,10 +84,3 @@ const mim = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer"/>
 </div>
 
-<div align="center">
-
-### 💫 *"Code is like humor. When you have to explain it, it's bad."* - Cory House
-
-**⭐ Thanks for visiting! Feel free to explore my repositories and star the ones you find interesting! ⭐**
-
-</div>
