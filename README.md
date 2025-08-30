@@ -2,36 +2,15 @@
 
 # 👋 Hello, I'm Suraya Jannat Mim
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=CSE+Undergraduate+%40+University+of+Dhaka;Competitive+Programming+Enthusiast;Algorithm+%26+Data+Structure+Lover;Software+Development+Passionate" alt="Typing SVG" />
+<img src="https://komarev.com/ghpvc/?username=mim1726&label=&color=0e75b6&style=for-the-badge" alt="Profile views" align="left" />
 
-<img src="https://komarev.com/ghpvc/?username=mim1726&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=CSE+Undergraduate+%40+University+of+Dhaka;Competitive+Programming+Enthusiast;Algorithm+%26+Data+Structure+Lover;Software+Development+Passionate" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 🚀 About Me
-
-```javascript
-const mim = {
-    pronouns: "She/Her",
-    location: "Dhaka, Bangladesh",
-    education: "Computer Science & Engineering - University of Dhaka",
-    currentFocus: ["Competitive Programming", "Algorithm Design", "Software Development"],
-    interests: ["Problem Solving", "Data Structures", "Web Development"],
-    funFact: "I love turning complex problems into elegant solutions! 💡"
-};
-```
-
-## 🎯 Current Focus
-
-- 🔍 Exploring advanced algorithms and data structures
-- 💻 Building projects to strengthen my software development skills
-- 🏆 Actively participating in competitive programming contests
-- 📚 Learning new technologies and frameworks
-- 🤝 Open to collaborate on interesting projects
-
-## 🛠️ Tech Stack
+## ️ Tech Stack
 
 ### Programming Languages
 <p align="center">
@@ -55,17 +34,6 @@ const mim = {
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-## 🏆 Competitive Programming
-
-<div align="center">
-
-| Platform | Profile | Status |
-|----------|---------|--------|
-| 🟠 **Codeforces** | [@mim17](https://codeforces.com/profile/mim17) | Active |
-| 🟤 **CodeChef** | [@mim17](https://www.codechef.com/users/mim17) | Active |
-
-</div>
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -75,12 +43,6 @@ const mim = {
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mim1726&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
-## 🏅 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mim1726&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
 </div>
 
 ## 📈 Contribution Graph
