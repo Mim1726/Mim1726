@@ -2,9 +2,9 @@
 
 # 👋 Hello, I'm Suraya Jannat Mim
 
-<img src="https://komarev.com/ghpvc/?username=mim1726&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" align="left" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=CS+Undergraduate+Student;University+of+Dhaka;" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=CS+Undergraduate+Student;University+of+Dhaka;Competitive+Programming+Enthusiast;Algorithm+%26+Data+Structure+Lover;Software+Development+Passionate" alt="Typing SVG" />
+<img src="https://komarev.com/ghpvc/?username=mim1726&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" align="left" />
 
 </div>
 
@@ -68,10 +68,4 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-### 🎵 "Code is like humor. When you have to explain it, it's bad." - Cory House
 
-<div align="center">
-  
-**⭐ Thanks for visiting my profile! Feel free to explore my repositories and don't forget to star ⭐ the ones you find interesting!**
-
-</div>
