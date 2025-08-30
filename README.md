@@ -4,7 +4,7 @@
 
 <h2>💻 CS Undergraduate Student</h2>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=University+of+Dhaka;Competitive+Programming+Enthusiast;Algorithm+%26+Data+Structure+Lover;Software+Development+Passionate" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=University+of+Dhaka;" alt="Typing SVG" />
 
 <br><br>
 
@@ -15,9 +15,24 @@
 
 ---
 
-<h2 align="center">🚀 About Me</h2>
+## 🌐 Connect With Me
 
+<div align="center">
 
+<a href="https://linkedin.com/in/suraya-jannat-mim-992ab3327">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://fb.com/suraya.jannat.mim.2024">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+<a href="https://codeforces.com/profile/mim17">
+<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/>
+</a>
+<a href="https://www.codechef.com/users/mim17">
+<img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white"/>
+</a>
+
+</div>
 
 ## 🛠️ Tech Stack
 
@@ -61,24 +76,7 @@
 
 </div>
 
-## 🤝 Let's Connect
 
-<div align="center">
-
-<a href="https://linkedin.com/in/suraya-jannat-mim-992ab3327">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://fb.com/suraya.jannat.mim.2024">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-<a href="https://codeforces.com/profile/mim17">
-<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/>
-</a>
-<a href="https://www.codechef.com/users/mim17">
-<img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white"/>
-</a>
-
-</div>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer"/>
